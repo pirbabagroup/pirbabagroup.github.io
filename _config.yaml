@@ -1,2 +1,3 @@
 name: گروه پیربابا
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
